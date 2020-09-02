@@ -1,31 +1,25 @@
 
-function generateMarkdown(data, repoInfo) {
-  return `
 
-Title:${data.title}
+Title:afl;kja;ldfjka;lkjf
 ------------------------------------------------------------------------------
-Description:${data.description}
+Description:a;lfkjda;lkfdj
 ------------------------------------------------------------------------------
-Table of Content: ${data.content}
+Table of Content: a;lkdjf;asljkfd
 ------------------------------------------------------------------------------
-Installation: ${data.install}
+Installation: a;ldfkja;lkjdf
 ------------------------------------------------------------------------------
-Usage: ${data.usage}
+Usage: a;dlskjfa;sdjkf
 ------------------------------------------------------------------------------
-Licensing: ${data.license}
+Licensing: a;dfj;aldkfj
 ------------------------------------------------------------------------------
-Contribution: ${data.contribute}
+Contribution: a;lsdkfja;lfkdj
 ------------------------------------------------------------------------------
-Test: ${data.tests}
+Test: a;ldfkja;ldkjf
 ------------------------------------------------------------------------------
-Quesitons: ${data.questions}
+Quesitons: a;lkdsfja;lkfjd
 
 
 
 
 
 
-`;
-}
-
-module.exports = generateMarkdown;
